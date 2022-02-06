@@ -85,10 +85,6 @@ int LRU(int counter[], int min){
     return index;
 }
 
-int FIFO (int counter[]){
-    
-}
-
 int main(int argc, char* argv[]){
 
     if(argc<2)
